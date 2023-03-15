@@ -1,7 +1,5 @@
 """
 Library for request to http://www.caiga.ru
-
-pip install pypdf, requests
 """
 
 import io
